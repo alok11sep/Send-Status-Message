@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<taskListClass>
+    <beanList taskType="ISA" taskName="TaskName">
+        <offshoreAdvisorsList>alok@a.com;</offshoreAdvisorsList>
+        <onshoreAdvisorsList>alok@a.com;</onshoreAdvisorsList>
+        <technicalReferent>alok@a.com;</technicalReferent>
+        <verifier>alok@a.com;</verifier>
+    </beanList>
+    <templatesPath>D:\Alok\templates_benches\templates_benches</templatesPath>
+</taskListClass>
